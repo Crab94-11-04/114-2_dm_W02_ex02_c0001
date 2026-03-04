@@ -1,3 +1,4 @@
 # 114-2_dm_W02_ex02_c113181117
 # add picture
-![image]"C:\Users\USER\Desktop\螢幕擷取畫面 2026-03-04 114807.png"
+<img width="566" height="401" alt="photo" src="https://github.com/user-attachments/assets/34e8d122-18d3-4267-b87e-ad94730a5254" />
+
